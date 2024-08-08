@@ -154,6 +154,7 @@ NODE polyadd(NODE a, NODE b)
             b = b->link;
         }
     }
+    
     /* attach the remaining terms in the polynomial to end of resultant polynomial */
     while (a != starta)
     {
