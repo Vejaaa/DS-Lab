@@ -7,7 +7,6 @@ struct node{
         struct node*prev;
 }*head, *newnode, *tail;
 
-
 void getnode(){
         newnode=(struct node*)malloc(sizeof(struct node));
         printf("\nEnter student data \n");
