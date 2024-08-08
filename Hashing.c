@@ -9,7 +9,6 @@ void createtable(){
         scanf("%d",&m);
     }
 }
-
 void placekey(int k){
     int flag=0;
     hi=(2*k+3)%m;
