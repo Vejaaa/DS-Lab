@@ -1,1 +1,1 @@
-This repo contains data structure lab programs
+# DataStructure Lab Programs
