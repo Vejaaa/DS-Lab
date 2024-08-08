@@ -1,5 +1,5 @@
 #include<stdio.h>
-//Grouping of given Numbers
+//Grouping of the given Numbers
 
 void main(){
     int max, j, list[18] = {3, 22, 12, 6, 10, 34, 65, 29, 9, 30, 81, 4, 5, 19, 20, 57, 44, 89};
