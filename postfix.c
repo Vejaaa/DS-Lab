@@ -4,6 +4,7 @@
 #include<math.h>
 #define MAX 100
 //evaulation : https://www.youtube.com/watch?v=imfuqa9E6O8
+
 int stack[MAX];
 char infix[MAX], postfix[MAX];
 int top=-1;
